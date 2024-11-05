@@ -4,4 +4,6 @@ The offset between the images is performed through convolution. This is achieved
 
 The main file to run (interactively) is align_astro_images.jl
 
-The sample images are 5 one second snapshots of comet Tsuchinshan-ATLAS 2024 taken with a Nikon 5300 DSLR from my bedroom, during twilight. 
+The sample images are 5 one second snapshots of comet Tsuchinshan-ATLAS 2024 taken with a Nikon 5300 DSLR from my bedroom, during twilight. The image below is the result of summing 25 images.
+
+![Comet Tsuchinshan-ATLAS](output/example_with_25_images.png)
